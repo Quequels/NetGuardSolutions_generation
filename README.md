@@ -49,6 +49,14 @@ Atendemos diversos setores:
 
 ---
 
+### 📞 Contatos Oficiais
+
+- 🌐 **Website:** https://www.netguardsolutions.com  
+- 📧 **Email:** info@netguardsolutions.com  
+- 📞 **Telefone:** +1-800-555-1234  
+- 💼 **LinkedIn:** NetGuard Solutions  
+
+---
 ## ⚙️ Requisitos do Sistema
 
 | Componente | Especificação |
